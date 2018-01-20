@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+}
+
+h1	{
+	color: red;
+	font-size: 65px;
+	position: absolute;
+	margin-top: 30px;
+	width:100%;
+	text-align: center;
+
+}
+
+h2{
+	font-size: 30px;
+	color: green;
+}
+
+img{
+	width: 100%;
+}
+
+div{
+	margin: 20px;
+}
+
+p{
+	margin: 30px;
+	font-size: 20px;
+	line-height: 30px;
+	color: purple;
+}
